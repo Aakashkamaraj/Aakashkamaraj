@@ -4,10 +4,10 @@ I am passionate about learning and gathering new skills and am eager to contribu
 🌱 I’m currently learning Advance JAVA and FullStackDevelopment .
 
  
-
 💻 Coding Profile
-LeetCode:AAKASH K
+
 🌐 Contact Me On
-Website:AAKASH K
-LinkedIn: AAKASH K
+Mobile No: 9585699635
+Leetcode:https://leetcode.com/u/Aakashkamaraj/
+LinkedIn:https://www.linkedin.com/in/aakash-k-it/
 Email: k.aakashbtech@gmail.com
